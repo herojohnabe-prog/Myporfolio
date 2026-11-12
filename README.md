@@ -1,1 +1,1 @@
-# Myporfolio
+I developed a web-based system to solve a problem students faced when trying to look up their grades. As the developer, I followed the full process myself: I gathered the requirements, planned the project, designed the system, developed it, and deployed it. I built it using SQL, PHP, HTML, and CSS, with Claude as a tool to support my work. After deployment, the system reached 60% satisfaction among students. This project was my first step toward building a job portfolio, and it taught me how to take a real problem from idea to a working solution.
